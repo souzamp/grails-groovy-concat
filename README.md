@@ -12,8 +12,9 @@ This web project it's being with Framework Grails for groovy. This app was creat
 ![](/grails-app/assets/images/prompt_grails.png)
 
 ## Usage
-1. in folder project open prompt and execute command 'grails run-app' 
-![]()
+1. in folder project open prompt and execute command 'grails run-app'
+
+![](/grails-app/assets/images/run-app.png)
 2. acess 'localhost:8080'
 
 ## Contributing
