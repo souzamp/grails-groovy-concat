@@ -1,9 +1,12 @@
 # grails-groovy-concat
 
-This web project it's being with Framework Grails for groovy. This app was created from Falando de Grails book of code house.
+This web project it's being with Framework Grails for groovy. This app was created from "Falando de Grails" book of code house.
 
 ## Installation
-TODO: Describe the installation process
+Process to instalation
+
+1. Download grails version 3.3.11
+[Grails](http://www.grails.org/download.html)
 
 ## Usage
 TODO: Write usage instructions
