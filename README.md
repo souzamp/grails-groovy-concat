@@ -5,8 +5,11 @@ This web project it's being with Framework Grails for groovy. This app was creat
 ## Installation
 Process to instalation
 
-1. Download grails version 3.3.11
-[Grails](http://www.grails.org/download.html)
+1. download grails version 3.3.11 [Grails](http://www.grails.org/download.html)
+2. add path of folder with grails in environment variable Windows
+3. download JDK 8 [Java](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+4. test grails, start prompt and execeute 'grails'
+![](/grails-app/assets/images/apple-touch-icon.png)
 
 ## Usage
 TODO: Write usage instructions
