@@ -9,7 +9,8 @@ Process to instalation
 2. add path of folder with grails in environment variable Windows
 3. download JDK 8 [Java](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 4. test grails, start prompt and execeute 'grails'
-![](/grails-app/assets/images/apple-touch-icon.png)
+
+![](/grails-app/assets/images/prompt_grails.png)
 
 ## Usage
 TODO: Write usage instructions
