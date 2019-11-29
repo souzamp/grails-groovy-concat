@@ -3,16 +3,20 @@
 This web project it's being with Framework Grails for groovy. This app was created from "Falando de Grails" book of code house.
 
 ## Installation
-Process to instalation
 
 1. download grails version 3.3.11 [Grails](http://www.grails.org/download.html)
 2. add path of folder with grails in environment variable Windows
 3. download JDK 8 [Java](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 4. test grails, start prompt and execeute 'grails'
-![](/grails-app/assets/images/apple-touch-icon.png)
+
+![](/grails-app/assets/images/prompt_grails.png)
 
 ## Usage
-TODO: Write usage instructions
+1. in folder project open prompt and execute command 'grails run-app'
+
+![](/grails-app/assets/images/run-app.png)
+
+2. acess http://localhost:8080
 
 ## Contributing
 1. Fork it!
